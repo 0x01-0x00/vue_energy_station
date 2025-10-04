@@ -1,5 +1,3 @@
 <template>
-  <div>
-    <h1>I am a About</h1>
-  </div>
+  I am a About
 </template>

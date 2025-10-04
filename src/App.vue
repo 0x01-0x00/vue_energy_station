@@ -3,7 +3,7 @@
 </script>
 
 <template>
-zhongtao
+  <RouterView/>
 </template>
 
 <style scoped>
