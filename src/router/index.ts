@@ -1,8 +1,5 @@
 import {createRouter, createWebHistory} from "vue-router";
-import type {RouteRecordRaw} from "vue-router";
-
-const routes: RouteRecordRaw[] = [
-]
+import routes from "@/router/basicRouteMap.ts";
 
 const router = createRouter({
     history: createWebHistory(),
