@@ -1,5 +1,5 @@
 import {createApp} from 'vue'
-import './style.css'
+import './style.less'
 import ElementPlus from 'element-plus'
 import 'element-plus/dist/index.css'
 // 如果您正在使用CDN引入，请删除下面一行。
